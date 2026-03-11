@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akash16121997/DocSendProject/static/css/main.3c082c8e.css",
+    "main.js": "/Akash16121997/DocSendProject/static/js/main.1405129b.js",
+    "static/js/453.6603f519.chunk.js": "/Akash16121997/DocSendProject/static/js/453.6603f519.chunk.js",
+    "index.html": "/Akash16121997/DocSendProject/index.html",
+    "main.3c082c8e.css.map": "/Akash16121997/DocSendProject/static/css/main.3c082c8e.css.map",
+    "main.1405129b.js.map": "/Akash16121997/DocSendProject/static/js/main.1405129b.js.map",
+    "453.6603f519.chunk.js.map": "/Akash16121997/DocSendProject/static/js/453.6603f519.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c082c8e.css",
+    "static/js/main.1405129b.js"
+  ]
+}
